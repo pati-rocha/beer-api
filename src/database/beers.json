@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Heineken1",
+        "description": "A verdinha",
+        "breweryName": "Ambev",
+        "type": "PILSEN"
+    },
+    {
+        "name": "Heineken2",
+        "description": "A verdinha",
+        "breweryName": "Ambev",
+        "type": "PILSEN"
+    },
+    {
+        "name": "Heineken3",
+        "description": "A verdinha",
+        "breweryName": "Ambev",
+        "type": "PILSEN"
+    },
+    {
+        "name": "Heineken4",
+        "description": "A verdinha",
+        "breweryName": "Ambev",
+        "type": "PILSEN"
+    },
+    {
+        "name": "Heineken5",
+        "description": "A verdinha",
+        "breweryName": "Ambev",
+        "type": "PILSEN"
+    }
+]
